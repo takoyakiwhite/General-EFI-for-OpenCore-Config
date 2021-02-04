@@ -1,2 +1,2 @@
-# -General-EFI-for-OpenCore-Config
+# General-EFI-for-OpenCore-Config
 Installation Only
